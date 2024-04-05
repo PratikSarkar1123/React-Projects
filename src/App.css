@@ -1,0 +1,27 @@
+h1 {
+  margin: 20px;
+  margin-bottom: 30px;
+  font-weight: 750;
+  font-size: 2.5rem;
+}
+
+input {
+  width: 100%;
+}
+
+.item-container {
+  text-align: left;
+}
+
+.btn-new {
+  min-width: 80px;
+}
+
+.btn {
+  margin: 8px;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.todo-container {
+  margin-left: 3rem;
+}
